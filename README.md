@@ -11,5 +11,5 @@ Please see below for a list of the talks I have given in the last three years:
 
 - Birds. Can they really fly? Meeting for silly questions, At a University, The World.
 
-![]()
+![A picture of a cat in a box](https://bit.ly/python_cat)
 
