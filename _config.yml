@@ -1,9 +1,7 @@
 theme: minima
 title: Lucy Loves Talking
+author: Lucy Whalley
 
 header_pages:
   - reptiles.md
   
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
