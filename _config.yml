@@ -2,8 +2,7 @@ theme: minima
 title: Lucy Loves Talking
 
 header_pages:
-  - about.md
-  - portfolio.md
+  - reptiles.md
   
 minima:
   social_links:
