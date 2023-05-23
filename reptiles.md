@@ -1,3 +1,3 @@
-## Its really weird how scaly they are
+## Reptiles
 
-Isn't it?
+It's really weird how scaly they are.
