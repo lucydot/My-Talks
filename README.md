@@ -1,6 +1,6 @@
 Hello!
 
-Please see below for a list of the talks I have given in the last three years. For my work on reptiles please see [this article](./reptiles.md)
+Please see below for a list of the talks I have given in the last three years. For my work on reptiles please see [this article](./reptiles.md).
 
 ### 2023
 
